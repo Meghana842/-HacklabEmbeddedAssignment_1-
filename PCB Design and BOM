@@ -1,0 +1,22 @@
+# -HacklabEmbeddedAssignment_1-
+What is the logic voltage level, 3.3V or 5V?
+3.3 voltage
+
+Datasheet: https://www.mouser.in/ProductDetail/TDK-Lambda/CHVM1R5-12-1500N?qs=eP2BKZSCXI6y8K4kzuUaAg%3D%3D
+
+ What is the input range of this DC/DC Converter?
+-53v to  700v
+
+Is it an isolated or non-isolated converter?
+Isolation in terms of DC/DC converters refers to galvanic isolation which means that there is no 
+metallic / direct conduction path between two parts of the circuit. The isolation will always present 
+a barrier between the input stage and the output stage and may be required for circuit functionality,
+ safety, or both.
+Isolated converters: In an isolated converter, the input and output stage have separate grounds whereas in a non-isolated 
+converter, current is able to flow directly between the two sides as they share a common ground.
+non isolated converter: The primary difference is that a non-isolated converter does not have a transformer and does not require any physical 
+separation between input and output, so this typically makes them smaller and lighter. It also improves
+ the efficiency as there are no transformer losses to take into consideration.
+
+ What is the wattage of the converter?
+ A wattage converter is an electric device using the electromagnetic principle to change the voltage from the primary side to the secondary side. Their purpose like a transformer.
