@@ -1,0 +1,3 @@
+# -HacklabEmbeddedAssignment_1-
+3.Choose components such that the relay can control at least 5 amperes rated equipment
+The components in a 5v relay module with a single channel include a relay, output terminal, status LED, power LED, freewheeling diode, input connector & switching transistor.
